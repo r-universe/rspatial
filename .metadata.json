@@ -1,10 +1,23 @@
 [
   {
-    "package": "dismo",
-    "oncran": true
+    "package": "geosphere",
+    "oncran": false
   },
   {
     "package": "raster",
+    "oncran": true
+  },
+  {
+    "package": "luna"
+  },
+  {
+    "package": "geodata"
+  },
+  {
+    "package": "predicts"
+  },
+  {
+    "package": "dismo",
     "oncran": true
   },
   {
