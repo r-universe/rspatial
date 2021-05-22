@@ -1,0 +1,14 @@
+[
+  {
+    "package": "dismo",
+    "oncran": true
+  },
+  {
+    "package": "raster",
+    "oncran": true
+  },
+  {
+    "package": "terra",
+    "oncran": true
+  }
+]
