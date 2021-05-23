@@ -21,6 +21,12 @@
     "oncran": true
   },
   {
+    "package": "rspat"
+  },
+  {
+    "package": "rspatial"
+  },
+  {
     "package": "terra",
     "oncran": true
   }
