@@ -11,7 +11,8 @@
     "package": "luna"
   },
   {
-    "package": "geodata"
+    "package": "geodata",
+    "oncran": false
   },
   {
     "package": "predicts"
