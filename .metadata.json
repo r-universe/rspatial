@@ -12,7 +12,7 @@
   },
   {
     "package": "geodata",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "predicts"
