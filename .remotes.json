@@ -1,0 +1,8 @@
+[
+  {
+    "package": "terra",
+    "url": "https://github.com/rspatial/terra",
+    "via": ["raster"],
+    "from": "raster"
+  }
+]
