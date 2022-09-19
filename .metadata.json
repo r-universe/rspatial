@@ -19,7 +19,7 @@
   },
   {
     "package": "dismo",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "rspat"
