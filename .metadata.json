@@ -15,7 +15,8 @@
     "oncran": true
   },
   {
-    "package": "predicts"
+    "package": "predicts",
+    "oncran": false
   },
   {
     "package": "dismo",
