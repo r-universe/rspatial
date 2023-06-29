@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rspatial/universe
-	shallow = true
 	branch = HEAD
 [submodule "geosphere"]
 	path = geosphere
 	url = https://github.com/rspatial/geosphere
-	shallow = true
-	registered = true
 [submodule "raster"]
 	path = raster
 	url = https://github.com/rspatial/raster
-	shallow = true
-	registered = true
 [submodule "luna"]
 	path = luna
 	url = https://github.com/rspatial/luna
-	shallow = true
-	registered = true
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/rspatial/geodata
-	shallow = true
-	registered = true
 [submodule "predicts"]
 	path = predicts
 	url = https://github.com/rspatial/predicts
-	shallow = true
-	registered = true
 [submodule "dismo"]
 	path = dismo
 	url = https://github.com/rspatial/dismo
-	shallow = true
-	registered = true
 [submodule "rspat"]
 	path = rspat
 	url = https://github.com/rspatial/rspat
-	shallow = true
-	registered = true
 [submodule "rspatial"]
 	path = rspatial
 	url = https://github.com/rspatial/rspatial
-	shallow = true
-	registered = true
 [submodule "terra"]
 	path = terra
 	url = https://github.com/rspatial/terra
-	shallow = true
-	registered = true
