@@ -2,24 +2,24 @@
 	path = .registry
 	url = https://github.com/rspatial/universe
 	branch = HEAD
-[submodule "geosphere"]
-	path = geosphere
-	url = https://github.com/rspatial/geosphere
-[submodule "raster"]
-	path = raster
-	url = https://github.com/rspatial/raster
-[submodule "luna"]
-	path = luna
-	url = https://github.com/rspatial/luna
-[submodule "geodata"]
-	path = geodata
-	url = https://github.com/rspatial/geodata
-[submodule "predicts"]
-	path = predicts
-	url = https://github.com/rspatial/predicts
 [submodule "dismo"]
 	path = dismo
 	url = https://github.com/rspatial/dismo
+[submodule "geodata"]
+	path = geodata
+	url = https://github.com/rspatial/geodata
+[submodule "geosphere"]
+	path = geosphere
+	url = https://github.com/rspatial/geosphere
+[submodule "luna"]
+	path = luna
+	url = https://github.com/rspatial/luna
+[submodule "predicts"]
+	path = predicts
+	url = https://github.com/rspatial/predicts
+[submodule "raster"]
+	path = raster
+	url = https://github.com/rspatial/raster
 [submodule "rspat"]
 	path = rspat
 	url = https://github.com/rspatial/rspat
