@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rspatial/universe
+	url = https://github.com/rspatial/rspatial.r-universe.dev
 	branch = HEAD
 [submodule "dismo"]
 	path = dismo
